@@ -3,7 +3,7 @@ Gradient enhanced PINNs implementation in TensorflowV2, with Fourier features, c
 
 This code is for a simple heat equation
 
-$u_{t}$ = $u_{xx}$ + $e^{-t}sin(\pi x)(1+\pi^{2})$  ,         
+$u_{t}$ = $u_{xx}$ + $e^{-t}sin(\pi x)(1+\pi^{2})$          
 
 $0<x<1 ;  0<t<1$;
 
